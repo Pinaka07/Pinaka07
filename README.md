@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pinaka07
+- 👋 Hi, I’m Anand 
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Neural Networks.
 - 💞️ I’m looking to collaborate on ML projects.
